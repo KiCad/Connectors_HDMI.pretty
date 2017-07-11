@@ -1,2 +1,2 @@
 # Connectors_HDMI.pretty
-HDMI connectors
+HDMI (High-Definition Multimedia Interface) connector footprints
