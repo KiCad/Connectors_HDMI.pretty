@@ -1,11 +1,11 @@
-(module HDMI_Micro-D_Molex_46765-0x01 (layer F.Cu) (tedit 596672E9)
-  (descr "HDMI, Micro, Type D, 0.4mm pitch, 19 ckt, right angle (http://www.molex.com/pdm_docs/sd/467651301_sd.pdf)")
+(module HDMI_Micro-D_Molex_46765-1x01 (layer F.Cu) (tedit 596672E9)
+  (descr "HDMI, Micro, Type D, THT, 0.4mm pitch, 19 ckt, right angle (http://www.molex.com/pdm_docs/sd/467651301_sd.pdf)")
   (tags "hdmi micro type d right angle tht")
   (attr smd)
   (fp_text reference REF** (at 0 -8) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value HDMI_Micro-D_Molex_46765-0x01 (at 0 1.9) (layer F.Fab)
+  (fp_text value HDMI_Micro-D_Molex_46765-1x01 (at 0 1.9) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -3.31 0.76) (end 3.31 0.76) (layer F.SilkS) (width 0.12))
@@ -64,7 +64,7 @@
   (pad 14 smd rect (at -0.8 -5.25) (size 0.23 1) (layers F.Cu F.Paste F.Mask))
   (pad 16 smd rect (at -1.2 -5.25) (size 0.23 1) (layers F.Cu F.Paste F.Mask))
   (pad 18 smd rect (at -1.6 -5.25) (size 0.23 1) (layers F.Cu F.Paste F.Mask))
-  (model ${KISYS3DMOD}/Connectors_HDMI.3dshapes/HDMI_Micro-D_Molex_46765-0x01.wrl
+  (model ${KISYS3DMOD}/Connectors_HDMI.3dshapes/HDMI_Micro-D_Molex_46765-1x01.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
